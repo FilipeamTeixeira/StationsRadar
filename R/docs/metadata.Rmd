@@ -1,0 +1,74 @@
+---
+title: "Metadata"
+runtime: shiny
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<span style="color:RoyalBlue; font-size:14pt"> __**1. KNOOP**__ </span>  
+Indicator naam	Beschrijving	Bron (actualiteit)
+FIETS
+gratis parking	aantal gratis parkeerplaatsen 	NMBS (2018)
+
+bet parking	aantal betalende parkeerplaatsen	
+AUTO
+gratis parking	aantal gratis parkeerplaatsen 	NMBS (2018)
+bet parking	aantal betalende parkeerplaatsen	
+BUS/TRAM/METRO
+frequentie	totale frequentie van vertrekkende bussen, trams en metros op dagbasis (een dinsdag) 	O.b.v. de GTFS data van De Lijn, TEC en MIVB/STIB (Juni 2018)
+routes	aantal unieke B/T/M routes naar en van het station op dagbasis (een dinsdag) 	
+
+<span style="color:DarkGray; font-size:14pt"> __**2. TREIN**__ </span>  
+Indicator naam	Beschrijving	Bron (actualiteit)
+TREIN
+dinsdag	frequentie van vertrekkende treinen op een dinsdag	O.b.v. de GTFS data van NMBS (Juni 2018)
+
+zaterdag	frequentie van vertrekkende treinen op een zaterdag	
+off-peak	frequentie van vertrekkende treinen op een dinsdag, off-peak (tussen 9u en 14u)	
+amplitude	dagdeel tussen het eerste vertrek en de laatste aankomst op een dinsdag	
+reistijd	reistijd centraliteit 	
+overstap	overstap centraliteit	
+
+
+
+<span style="color:Tomato; font-size:14pt"> __**3. PLAATS**__ </span>  
+Indicator naam	Beschrijving	Bron (actualiteit)
+DENSITEIT
+inwoners	Inwonersdichtheid per hectare, gesommeerd in de stationsbuurt	VITO. We gebruiken de rasterkaarten die zijn opgemaakt door Verachtert et al. (2016)
+jobs	Werknemersdichtheid per hectare, gesommeerd in de stationsbuurt	
+basis	Dichtheid aan basisvoorzieningen per hectare, gesommeerd in de stationsbuurt	
+regionaal	Dichtheid aan regionale voorzieningen per hectare, gesommeerd in de stationsbuurt	
+metropolitaan	Dichtheid aan metropolitane voorzieningen per hectare, gesommeerd in de stationsbuurt	
+DIVERSITEIT
+functioneel	Shannon Diversity Index 	O.b.v. de landgebruikskaart van VITO (2013) 
+ruimtelijk	Contagion Index 	
+DESIGN
+interface	totale lengte van straatsegmenten die grenzen aan de contouren van gebouwen (publiek/private interface), in de stationsbuurt	O.b.v. OpenStreetMap (2018) 
+intersecties	aantal straatintersecties in de stationsbuurt 	
+fietswandel	totale  lengte aan wandel- en fietspaden in de stationsbuurt	VITO. We gebruiken de fietswandelkaart opgemaakt door Verachtert et al. (2016) 
+
+<span style="color:DarkOrange; font-size:14pt"> __**4. MOTIVATIE **__ </span>  
+Indicator naam	Beschrijving	Bron (actualiteit)
+MOTIVATIE
+scholier	aantal scholieren die het station gebruiken als bestemmingsstation 	NMBS (2018)
+student	aantal studenten die het station gebruiken als bestemmingsstation	
+werk	aantal werkenden die het station gebruiken als bestemmingsstation	
+andere	individuele ticketverkoop met het station als bestemming	
+
+<span style="color:LightGray; font-size:14pt"> __**5. GEBRUIKERSINTENSITEIT**__ </span>  
+Indicator naam	Beschrijving	Bron (actualiteit)
+GEBRUIKERSINTENSITEIT
+oorsprong	aantal mensen die het station als oorsprongstation gebruiken	NMBS (2017 and 2018)
+aantal	aantal opstappers op dagbasis 	
+bestemming	aantal mensen die het station als bestemmingsstation gebruiken	
+
+<span style="color:ForestGreen; font-size:14pt"> __**6. INVLOEDSGEBIED**__ </span>  
+Indicator naam	Beschrijving	Bron (actualiteit)
+EFFORT
+wandel	aantal mensen die dichter dan 900 meter vogelvlucht afstand wonen van hun oorsprongstation 	NMBS (2018)
+fiets	aantal mensen die tussen 900 en 3000 meter vogelvlucht afstand wonen van hun oorsprongstation 	
+verder	aantal mensen die verder dan 900 meter vogelvlucht afstand wonen van hun oorsprongstation 	
+ 

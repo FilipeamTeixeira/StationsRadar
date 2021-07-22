@@ -1,0 +1,36 @@
+﻿;INDICATOREN;AFKORTING ;BRON;JAAR
+FIETS;Aantal gratis parkeerplaatsen;Fiets gratis parking;NMBS;2018
+;Aantal betalende parkeerplaatsen;Fiets bet. parking;;
+;Bezettingsgraad parking ;Fiets parking bez. ;;
+AUTO;Aantal gratis parkeerplaatsen;Auto gratis parking;NMBS;2018
+;Aantal betalende parkeerplaatsen;Auto bet. parking;;
+;Bezettingsgraad parking ;Auto parking bez.;;
+OV;Aantal unieke routes per station;BTM routes;GTFS data De Lijn;2018
+;Frequentie vertrekkende bussen, trams en metro's per station;BTM frequentie;;
+TREIN;Frequentie vertrekkende treinen op een dinsdag;Trein freq. dinsd;GTFS data NMBS;2018
+;Frequentie vertrekkende treinen op een zaterdag;Trein freq. zat.;;
+;Frequentie vertrekkende treinen off-peak;Trein freq. off-peak;;
+;Amplitude treinaanbod op een dinsdag;Trein amplitude;;
+;Reistijdcentraliteit;Reistijdcentraliteit;;
+;Overstapcentraliteit;Overstapcentraliteit;;
+DENSITEIT;Sommering van de dichtheden aan basisvoorzieningen in de stationsbuurt;Dichtheid basisv;VKBO, Geopunt, Land-;2015
+;Sommering van de dichtheden aan regionale voorzieningen in de stationsbuurt;Dichtheid regio;gebruiksbestand VITO;
+;Sommering van de dichtheden aan metropolitane voorzieningen in de stationsbuurt;Dichtheid metro;Zie Verachtert et al. (2016);
+;Sommering van het aantal jobs in de stationsbuurt;Dichtheid jobs;VKBO, zie Verachtert et al. (2016);2015
+;Sommering van het aantal inwoners in de stationsbuurt;Dichtheid residentieel;FOD Binnenlandse Zaken;2013
+DIVERSITEIT;Shannon diversiteitsindex van drie types landgebruik (wonen, werken en voorzieningen) in de stationsbuurt;Diversiteit funct;O.b.v. Landgebruiksbestand VITO;2013
+;IJI index van de drie types landgebruik (wonen, werken en voorzieningen) in de stationsbuurt;Diversiteit ruimte ;O.b.v. Landgebruiksbestand VITO;2013
+DESIGN;Grootte van het scheidingsvlak tussen private en publieke ruimte in de stationsbuurt;Design interface;O.b.v. Wegenregister (Geopunt);2018
+;Aantal kruispunten binnen in de stationsbuurt;Design permeab;;
+;Totale lengte van de wandel- en fietsinfrastructuur in de stationsbuurt;Design fietswandel;O.b.v. BFF, OSM, Wegenregister, recreatief fietsnetwerk, GRB;2018
+MOTIVATIE;Aandeel scholieren met het station als bestemmingsstation (abonnementsdata);Motivatie scholier;NMBS;
+;Aandeel studenten met het station als bestemmingsstation (abonnementsdata);Motviatie student;;
+;Aandeel werkenden met het station als bestemmingsstation (abonnementsdata);Motivatie werk;;
+;Aandeel losse ticketverkoop met het station als bestemmingsstation;Motivatie ander;;
+GEBRUIKERSINTENSITEIT;Oorsprongkarakter van het station ;Reizigers oorsprong;NMBS;
+;Aantal reizigers op een werkdag ;Reizigers aantal;;
+;Bestemmingskarakter van het station;Reizigers bestemming;;
+INVLOEDSGEBIED;Aantal opstappers van het station die op minder dan 900 m vogelvluchtafstand van het station wonen;Wandelafstand;NMBS;
+;Aantal opstappers van het station die tussen 900 m en 3 km vogelvluchtafstand van het station wonen;Fietsafstand;;
+;Aantal opstappers van het station die verder dan 3 km vogelvluchtafstand van het station wonen;verder;;
+;;;;

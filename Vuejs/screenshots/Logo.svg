@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="5552px" height="3570px" viewBox="0 0 5552 3570" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="720" cy="720" r="720"></circle>
+    </defs>
+    <g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" fill-rule="nonzero" x="0.5" y="0.5" width="5551" height="3569"></rect>
+        <text id="STATIONSRADAR" fill="#76A08A" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="360" font-weight="400">
+            <tspan x="1369" y="2601">STATIONS</tspan>
+            <tspan x="3070" y="2601" font-family="HelveticaNeue-Thin, Helvetica Neue" font-weight="300">RADAR</tspan>
+        </text>
+        <g id="Group-4" transform="translate(2051.000000, 758.000000)">
+            <circle id="Oval" fill="#76A08A" fill-rule="nonzero" cx="720" cy="720" r="720"></circle>
+            <g id="Path-3-+-Path-4-Mask">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#76A08A" fill-rule="nonzero" xlink:href="#path-1"></use>
+                <path d="M571.189035,871 L304,1332.12183" id="Path-3" stroke="#FFFFFF" stroke-width="17" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                <path d="M900.718749,888.360658 L1169.95906,1355.18686" id="Path-4" stroke="#FFFFFF" stroke-width="17" fill-rule="nonzero" mask="url(#mask-2)"></path>
+            </g>
+            <rect id="Rectangle" stroke="#76A08A" stroke-width="23" fill="#FFFFFF" fill-rule="nonzero" x="408.5" y="293.5" width="623" height="623" rx="119"></rect>
+            <rect id="Rectangle" fill="#76A08A" fill-rule="nonzero" x="829" y="766" width="89" height="67" rx="32"></rect>
+            <rect id="Rectangle" fill="#76A08A" fill-rule="nonzero" x="524" y="750" width="89" height="67" rx="32"></rect>
+            <rect id="Rectangle" fill="#76A08A" fill-rule="nonzero" x="524" y="485" width="394" height="195" rx="32"></rect>
+            <rect id="Rectangle" fill="#76A08A" fill-rule="nonzero" x="691" y="374" width="63" height="49" rx="21"></rect>
+        </g>
+    </g>
+</svg>
